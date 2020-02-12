@@ -1,3 +1,8 @@
+conexao com firebird 3
+https://github.com/mvitlov/vscode-db-explorer-firebird/issues/2
+
+
+
 git remote add upstream https://github.com/hgourvest/node-firebird.git
 git fetch upstream
 git merge upstream/master
